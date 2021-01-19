@@ -1,0 +1,2 @@
+This project is solely about developing an interactive game called BomberMan-Game. It is basically a gaming application written or made using HTML, CSS and JavaScript. The rule of the game are simple :- 
+You have a 9*9 grid which makes a total of 81 boxes. Out of these 81 boxes, 10 boxes contain bombs and other boxes are normal. If a normal box is clicked, the user is awarded a point and if a user clicks on a box containing a bomb, the game gets over (GAME OVER) and there is an option (Play Again) given to the user to start the game fresh at any time.
